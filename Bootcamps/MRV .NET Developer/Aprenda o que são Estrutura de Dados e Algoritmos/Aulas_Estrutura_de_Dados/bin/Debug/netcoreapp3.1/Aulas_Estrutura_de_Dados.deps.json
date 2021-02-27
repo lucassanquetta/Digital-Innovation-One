@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aulas_Estrutura_de_Dados/1.0.0": {
+        "runtime": {
+          "Aulas_Estrutura_de_Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aulas_Estrutura_de_Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
